@@ -1,2 +1,2 @@
 # YumYumBookProject
-The app that can deal with recipes!
+The app deals with recipes!
